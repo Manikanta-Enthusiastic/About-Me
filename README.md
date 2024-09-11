@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manikanta-Enthusiastic
+- 👋 Hi, I’m @Manikanta- Data Enthusiastic
 - 👀 I’m interested in Data Analytics Domain
 - 💞️ I’m looking to collaborate with Data Professionals
 - 📫 How to reach me galichinnamanikanta@gmail.com
