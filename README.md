@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Manikanta-Enthusiastic
-- 👀 I’m interested in Analytics Domain
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data Analytics Domain
 - 💞️ I’m looking to collaborate with Data Professionals
 - 📫 How to reach me galichinnamanikanta@gmail.com
 - 😄 Pronouns: He/Him
